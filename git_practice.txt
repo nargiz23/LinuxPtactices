@@ -1,0 +1,9 @@
+We will send  our linuxpractices folder from linux machine to 
+github remote repository.In order to send this folder,
+we have to initialize the git on the LinuxPractices folder.
+We should use git add commit for adding the files we want on a git
+can say that git staging area.Staging areas is still on our local devices,but
+we can say that git staging is a between remote and local.Before we send
+all the codes in a github remote repository,we should include the message to them
+so we can know purpose of the files.
+Then we can create a main branch on the github,then add our credentials,and send it.
