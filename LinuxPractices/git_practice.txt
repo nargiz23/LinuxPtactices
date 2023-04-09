@@ -1,0 +1,1 @@
+Git statuc will help us to see what files can be added to next
